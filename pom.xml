@@ -354,6 +354,7 @@
     <module>google-cloud-bigtable-emulator</module>
     <module>google-cloud-bigtable-bom</module>
     <module>google-cloud-bigtable-deps-bom</module>
-  </modules>
+          <module>google-cloud-bigtable-sidecar</module>
+    </modules>
 
   </project>
